@@ -29,9 +29,21 @@ class Program
 {
     static void Main(string[] args)
     {
+        // var numbers = new List<int>();
         List<int> numbers = new List<int>();
 
         int userNumber = -1;
+        // while (true)
+        //{
+        //   Console.Write("Please enter a number(0 to quit):" )
+        // int number = int.Parse.(Console.ReadLine());
+        //
+        // if (number ==0) 
+        // {
+        //      break;
+        // }
+        //
+        // numbers.Add(number);
         while (userNumber != 0)
         {
             Console.Write("Enter a number (0 to quit) ");
