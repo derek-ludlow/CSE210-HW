@@ -36,7 +36,7 @@ class Program
         // while (true)
         //{
         //   Console.Write("Please enter a number(0 to quit):" )
-        // int number = int.Parse.(Console.ReadLine());
+        // int number = int.Parse(Console.ReadLine());
         //
         // if (number ==0) 
         // {
