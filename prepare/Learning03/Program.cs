@@ -4,6 +4,24 @@ public class Fraction
     private int numerator;
     private int denominator;
 
+    // GETTERS AND SETTERS 
+    // public int GetNumerator()
+    // {
+    //     return _numerator;
+    // }
+
+    // public void SetDenominator(int newDenominator)
+    // {
+    //     if (newDenominator == 0)
+    //     {
+    //         _denominator = 1;
+    //     }
+    //     else
+    //     {
+    //         _denominator = newDenominator;
+    //         }
+    // }
+
     public Fraction()
     {
         numerator = 1;
